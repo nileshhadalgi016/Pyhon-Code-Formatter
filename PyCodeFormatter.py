@@ -4,7 +4,7 @@ import pyperclip
 from flaskwebgui import FlaskUI
 
 app = Flask(__name__)
-#ui = FlaskUI(app)
+ui = FlaskUI(app)
 
 
 @app.route("/")
@@ -28,5 +28,4 @@ def formatter():
                                    row=5)
 
 if __name__ == '__main__':
-    #ui.run()
-    app.run(debug=True)
+    ui.run()
