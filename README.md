@@ -1,7 +1,13 @@
 # Pyhon-Code-Formatter
 
+*clone the repository*
+
 $ pip install -r requirements.txt
 
 install the requirements 
 
-and run PyCodeFormatter.py 
+and run pyhthon3 PyCodeFormatter.py
+
+
+
+
