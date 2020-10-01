@@ -4,6 +4,8 @@
 
 * 1) Clone the Repository
 
+` $ git clone https://github.com/nileshhadalgi016/Pyhon-Code-Formatter.git`
+
 * 2) Install the requirements :
 
 ` $ pip install -r requirements.txt`
