@@ -1,4 +1,4 @@
-# Pyhon-Code-Formatter
+# Python-Code-Formatter
 
 ## Steps to Run Program :
 
