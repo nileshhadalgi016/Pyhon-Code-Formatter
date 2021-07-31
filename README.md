@@ -1,13 +1,15 @@
-# Pyhon-Code-Formatter
+# Python-Code-Formatter
 
-*clone the repository*
+## Steps to Run Program :
 
-$ pip install -r requirements.txt
+* 1) Clone the Repository
 
-install the requirements 
+` $ git clone https://github.com/nileshhadalgi016/Pyhon-Code-Formatter.git`
 
-and run pyhthon3 PyCodeFormatter.py
+* 2) Install the requirements :
 
+` $ pip install -r requirements.txt`
 
+* 3) Run the program
 
-
+` $ python3 PyCodeFormatter.py`
